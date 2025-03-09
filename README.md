@@ -4,6 +4,7 @@ Dessert Clicker app
 Code for Android Basics with Compose Codelab.
 
 Student Code: 22110076
+
 Student Fullname: Tran Trung Tin
 
 Introduction
