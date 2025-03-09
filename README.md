@@ -3,6 +3,9 @@ Dessert Clicker app
 
 Code for Android Basics with Compose Codelab.
 
+Student Code: 22110076
+Student Fullname: Tran Trung Tin
+
 Introduction
 ------------
 
@@ -18,12 +21,15 @@ Pre-requisites
 
 You need to know:
 - How to open, build, and run apps with Android Studio.
-- What an activity is, and how to create one in your app.
-- What the activity's onCreate() method does, and the kind of operations
-  that are performed in that method.
+- What is an activity, and how do you create one in your app?
+- What does the activity's onCreate() method do, and what kind of operations
+are performed using that method?
 
 
 Getting Started
 ---------------
 
-1. Download and run the app.
+1. Install Android Studio, if you don't already have it.
+2. Download the sample.
+3. Import the sample into Android Studio.
+4. Build and run the sample.
